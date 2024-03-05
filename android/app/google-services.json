@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137109629915",
+    "project_id": "fineplay-f0706",
+    "storage_bucket": "fineplay-f0706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137109629915:android:fc95feadf5726cfe3615fe",
+        "android_client_info": {
+          "package_name": "com.example.fp_ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbcD-5u_ae40Apg8rgtrpyL4eLdMN8ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
